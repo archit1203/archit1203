@@ -31,19 +31,13 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 ---
 
 ### 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=archit1203&theme=algolia" />
-</p>
+![trophy](https://github-profile-trophy-tawny.vercel.app/?username=archit1203&theme=onedark)
 
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=archit1203&layout=compact"/>
-</p>
+
+![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=archit1203&theme=dark&border_radius=3.5)
 
 ---
 
@@ -55,6 +49,6 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
 <img src="https://raw.githubusercontent.com/archit1203/archit1203/output/github-contribution-grid-snake.svg" />
-</p>
+
+
