@@ -16,7 +16,7 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/archit1203"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 <a href="https://instagram.com/archit.1203"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
@@ -24,59 +24,45 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 ---
 
 ### 👀 Profile Views
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=archit1203" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=archit1203&style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🏆 Trophies
-<a href="https://github-trophies.vercel.app/?username=archit1203" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=archit1203&theme=radical&margin-w=4&margin-h=4">
-</a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=archit1203&theme=dracula&margin-w=8&margin-h=8"/>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
-<img src="https://github-readme-stats-sable-chi.vercel.app/api?username=archit1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-<a href="https://nirzak-streak-stats.vercel.app/?user=archit1203">
-<img width="705" src="https://nirzak-streak-stats.vercel.app/?user=archit1203&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&count_private=true&theme=dracula"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=dracula"/>
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit1203&layout=compact&theme=dracula"/>
+</p>
 
 ---
 
 ### 📈 Contribution Graph
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=archit1203">
-<img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=dracula">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=dracula"/>
+</p>
 
 ---
 
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archit1203">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archit1203&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 📑 Profile Summary
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=dracula"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archit1203&theme=dracula"/>
+</p>
