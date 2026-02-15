@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I am Archit R Srivastava</h1>
-<h3 align="center">Computer Science Senior from India</h3>
+<h1 align="center">Hi 👋, I'm Archit R. Srivastava</h1>
+<h3 align="center">Software Engineer | AI/ML • Data Science • Full-Stack</h3>
 
-#### -🔭 On my GitHub page, you can find all the projects that I have worked on.
-#### -😃 Here is my website -> <a href="https://archit1203.github.io/e-Portfolio/"> Click </a>
+<p align="center">
+Passionate about building scalable systems, solving algorithmic problems, and developing intelligent applications.
+</p>
 
+---
+
+### 🚀 About Me
+- 💻 Computer Science Engineer  
+- 🤖 Focus: **AI/ML, Data Science, Full-Stack**
+- 📊 Currently building **ML + Development Projects**
+- 🌐 Portfolio: <a href="https://archit1203.github.io/e-Portfolio/">Visit Website</a>
+
+---
 <p align="left"> <a href="https://github.com/archit1203/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
 
 <br>
@@ -27,6 +37,3 @@
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&locale=en" alt="archit1203" /></span>
 <br>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=archit1203&theme=onedark)](https://github.com/archit1203/github-profile-trophy)
