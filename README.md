@@ -9,31 +9,52 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 
 ### 🚀 About Me
 - 💻 Computer Science Engineer  
-- 🤖 Focus: **AI/ML, Data Science, Full-Stack**
+- 🤖 Focus: **AI/ML, Data Science, Full-Stack, Cloud**
 - 📊 Currently building **ML + Development Projects**
 - 🌐 Portfolio: <a href="https://archit1203.github.io/e-Portfolio/">Visit Website</a>
 
 ---
-<p align="left"> <a href="https://github.com/archit1203/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
 
-<br>
-<a href="https://github.com/archit1203/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=archit1203">
-
-
-<h3 align="left">We can connect over at:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/archit1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit1203" height="30" width="40" /></a>
-<a href="https://instagram.com/archit.1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archit1203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/archit1203"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/archit.1203"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
 
-## &#x1f4c8; My Streak
+---
 
-<!-- [![Archit's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=archit1203)](https://github.com/archit1203/github-readme-activity-graph) -->
+### 👀 Profile Views
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=archit1203" />
+</p>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&" alt="archit1203" /></span>
+---
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit1203&show_icons=true&locale=en&layout=compact" alt="archit1203" /></span>
+### 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=archit1203&theme=algolia" />
+</p>
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&locale=en" alt="archit1203" /></span>
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203"/>
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=archit1203&layout=compact"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=github" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/archit1203/archit1203/output/github-contribution-grid-snake.svg" />
+</p>
