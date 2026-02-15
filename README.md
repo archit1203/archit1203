@@ -4,10 +4,10 @@
 #### -🔭 On my GitHub page, you can find all the projects that I have worked on.
 #### -😃 Here is my website -> <a href="https://archit1203.github.io/e-Portfolio/"> Click </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
+<p align="left"> <a href="https://github.com/archit1203/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
 
 <br>
-<a href="https://github.com/archit-1203/github-profile-views-counter">
+<a href="https://github.com/archit1203/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=archit1203">
 
 
@@ -27,3 +27,6 @@
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&locale=en" alt="archit1203" /></span>
 <br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=archit1203&theme=onedark)](https://github.com/archit1203/github-profile-trophy)
