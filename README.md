@@ -55,6 +55,10 @@
 ## 📊 GitHub Performance
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203&theme=github_dark"/>
 </p>
 
