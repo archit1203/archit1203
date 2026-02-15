@@ -41,10 +41,6 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 <img src="https://github-readme-stats-sable-chi.vercel.app/api?username=archit1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 <a href="https://nirzak-streak-stats.vercel.app/?user=archit1203">
 <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=archit1203&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203">
-<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203&theme=dracula"/>
-</a>
-
 
 ---
 
@@ -53,9 +49,6 @@ Passionate about building scalable systems, solving algorithmic problems, and de
 <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=dracula">
 
 ---
-
-### 🐍 Contribution Snake
-
 
 <table>
   <tbody>
