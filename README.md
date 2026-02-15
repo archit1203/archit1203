@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/archit1203">
 <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/archit.1203">
+<a href="https://instagram.com/archit1203">
 <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://archit1203.github.io/e-Portfolio/">
