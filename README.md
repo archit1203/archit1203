@@ -45,7 +45,7 @@
 
 ---
 
-## 📈 Engineering Activity
+## 📈 Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=react-dark&hide_border=true&area=true"/>
 </p>
