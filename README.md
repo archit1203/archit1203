@@ -23,7 +23,7 @@
 ---
 
 ## ⚡ Current Focus
-- Strengthening **Data Structures & Algorithms**
+- Strengthening **Data Structures and Algorithms**
 - Developing **real-world AI/ML systems**
 - Expanding into **Full-Stack**
 - Contributing to **Open-Source Engineering**
