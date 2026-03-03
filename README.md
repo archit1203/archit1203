@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- Software Engineer interested in **AI/ML, Data Science, and Full-Stack development**
+- Software Engineer interested in **AI/ML, Data Science, & Full-Stack development**
 - Enjoy solving **coding problems and building useful applications**
 - Currently working on **projects that combine machine learning and web development**
 - Improving my skills in **Data Structures, Algorithms, and practical software development**
