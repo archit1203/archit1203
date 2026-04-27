@@ -70,6 +70,8 @@
 ---
 
 ## 🏆 Achievements
+![LeetCode Stats](https://leetcard.jacoblin.cool/archit1203)
+
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=archit1203&theme=radical&margin-w=6&margin-h=6"/>
 </p>
