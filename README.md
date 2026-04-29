@@ -5,6 +5,15 @@
 I'm a software engineer, focused on machine learning, AI, and data science, with an interest in algorithms and building practical applications.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/archit1203/archit1203/main/generated/overview.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archit1203/archit1203/main/generated/languages.svg"/>
+</p>
+
+
+<p align="center">
       <a href="https://www.instagram.com/archit1203/" target="_blank">
          <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
       <a href="https://www.linkedin.com/in/archit1203/" target="_blank">
@@ -28,6 +37,14 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
   </a>
 </div>
 <br>
+
+<!-- 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/archit1203.svg" />
+  <img src="https://komarev.com/ghpvc/?username=archit1203&label=Profile%20Views&style=flat" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Lines%20of%20Code&query=total&url=https://api.codetabs.com/v1/loc?github=archit1203" />
+</p>
+-->
 
 ---
 ## 🛠️ Languages & Tools
@@ -53,9 +70,39 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
   <img alt="MySQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="MongoDB" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </p>
-<br>
 
 ---
+
+## 🎯 Current Focus
+- Strengthening **Data Structures & Algorithms**
+- Developing **real-world AI/ML systems**
+- Expanding into **Full-Stack**
+- Contributing to **Open-Source Engineering**
+
+---
+
+## 📊 Engineering Dashboard
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=github-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/archit1203?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
 
 ## 🚀 About Me
 - Software Engineer interested in **AI/ML, Data Science, & Full-Stack development**
@@ -67,13 +114,8 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 
 ---
 
-## ⚡ Current Focus
-- Strengthening **Data Structures & Algorithms**
-- Developing **real-world AI/ML systems**
-- Expanding into **Full-Stack**
-- Contributing to **Open-Source Engineering**
 
----
+
 
 ## 🌐 Connect
 <p align="center">
