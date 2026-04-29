@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@c2e2d14c0c7c6f6f6b8b7fd4f3fdb8a1e20b0c59
+      - uses: Platane/snk@v3
         with:
           github_user_name: archit1203
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@6c5fd8a0c6f55d0db0f8b4c2b4f1b2cb64b4a0e3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
