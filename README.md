@@ -1,4 +1,4 @@
-# 👨‍💻 Archit Srivastava
+# 👨‍💻 Archit Srivastava <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 **`Digital Alchemist`**
 
@@ -102,6 +102,14 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/archit1203?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archit1203/archit1203/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 🚀 About Me
