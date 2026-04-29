@@ -48,8 +48,9 @@
 -->
 
 ---
-<br>
-## 🛠️ Languages & Tools
+
+##   🛠️ Language & Tools
+
 
 <p align="center">
   <img alt="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
