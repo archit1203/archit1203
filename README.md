@@ -20,7 +20,7 @@
       <a href="https://www.linkedin.com/in/archit1203/" target="_blank">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084B8A"/></a>
       <a href="https://archit1203.github.io/e-Portfolio/" target="_blank">
-         <img alt="Portfolio" title="Visit my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=globe&logoColor=white&labelColor=5a32a3"/></a>
+         <img alt="Portfolio" title="Visit my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=globe&logoColor=white&labelColor=5a32a3" target="_blank"/></a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
       <a href="https://github.com/archit1203?tab=followers" target="_blank">
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/archit1203?label=Follow&style=for-the-badge&logo=github&color=236ad3"/></a>
       <a href="https://leetcode.com/u/archit1203/" target="_blank">
-         <img alt="LeetCode" title="View my LeetCode profile" src="https://custom-icon-badges.demolab.com/badge/LeetCode-Visit-FFA116?style=for-the-badge&logo=code&logoColor=white&labelColor=CC8A00"/></a>
+         <img alt="LeetCode" title="View my LeetCode profile" src="https://custom-icon-badges.demolab.com/badge/LeetCode-Visit-FFA116?style=for-the-badge&logo=code&logoColor=white&labelColor=CC8A00" target="_blank"/></a>
 </p>
 
 <div align="center">
