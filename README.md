@@ -1,3 +1,21 @@
+# 👨‍💻 Archit Srivastava
+
+**`Digital Alchemist`**
+
+I'm a software engineer, focused on machine learning, AI, and data science, with an interest in algorithms and building practical applications.
+
+<p align="left">
+   <a href="https://www.instagram.com/archit1203/">
+      <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/archit1203/">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://github.com/archit1203?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/archit1203?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/archit1203?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/archit1203?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+
 <div align="center">
 
 [![Best viewed in Dark Mode](https://img.shields.io/badge/Best%20Viewed%20In-GitHub%20Dark%20Mode-black?style=for-the-badge&logo=github)](https://github.com/settings/appearance)
