@@ -12,6 +12,8 @@
 </p>
 <br>
 
+
+
 <p align="center">
       <a href="https://www.instagram.com/archit1203/" target="_blank">
          <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
@@ -141,6 +143,6 @@ Building practical ML systems, strengthening algorithmic thinking, and exploring
 
 <div align="center">
 
-`Code. Learn. Refine. Repeat.`
+### Show some ❤️ by starring some of the repositories!
 
 </div>
