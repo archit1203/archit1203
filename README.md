@@ -1,17 +1,16 @@
-# 👨‍💻 Archit Srivastava <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
-**`Digital Alchemist`**
-
-I'm a software engineer, focused on machine learning, AI, and data science, with an interest in algorithms and building practical applications.
+<h1 align="center">
+  👨‍💻 Archit Srivastava
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/archit1203/archit1203/main/generated/overview.svg"/>
+  <b><code>Digital Alchemist</code></b>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/archit1203/archit1203/main/generated/languages.svg"/>
+  Software engineer focused on machine learning, AI, data science, and practical software engineering.
 </p>
-
+<br>
 
 <p align="center">
       <a href="https://www.instagram.com/archit1203/" target="_blank">
@@ -47,6 +46,7 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 -->
 
 ---
+<br>
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -74,33 +74,34 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 ---
 
 ## 🎯 Current Focus
-- Strengthening **Data Structures & Algorithms**
-- Developing **real-world AI/ML systems**
-- Expanding into **Full-Stack**
-- Contributing to **Open-Source Engineering**
+
+<div align="center">
+
+`Machine Learning` • `AI Engineering` • `Algorithms` • `System Design`
+<br>
+Building practical ML systems, strengthening algorithmic thinking, and exploring scalable engineering patterns.
+
+</div>
 
 ---
 
 ## 📊 Engineering Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=gotham&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203&theme=gotham"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=github_dark"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=gotham"/>
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archit1203&theme=gotham&utcOffset=5.5"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=gotham"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
+<p align="center">  
   <img src="https://leetcard.jacoblin.cool/archit1203?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
@@ -112,6 +113,11 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
   <img src="https://raw.githubusercontent.com/archit1203/archit1203/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=gotham&hide_border=true&area=true"/>
+</p>
+
+<!-- 
 ## 🚀 About Me
 - Software Engineer interested in **AI/ML, Data Science, & Full-Stack development**
 - Enjoy solving **coding problems and building useful applications**
@@ -120,61 +126,6 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 - Always learning and building new things
 
 
----
-
-
-
-
-## 🌐 Connect
-<p align="center">
-<a href="https://linkedin.com/in/archit1203">
-<img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/archit1203">
-<img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://archit1203.github.io/e-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00384d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📈 Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=archit1203&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## 📊 GitHub Performance
-<p align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit1203&theme=github_dark"/>
-</p>
-
----
-
-## 🏆 Achievements
-![LeetCode Stats](https://leetcard.jacoblin.cool/archit1203)
-
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=archit1203&theme=radical&margin-w=6&margin-h=6"/>
-</p>
-
----
-
-
-<!-- 
 ## ☕ Support
 <div align="center">
 <a href="https://www.buymeacoffee.com/archit1203" target="_blank">
@@ -182,3 +133,11 @@ I'm a software engineer, focused on machine learning, AI, and data science, with
 </a>
 </div>
 -->
+
+---
+
+<div align="center">
+
+`Code. Learn. Refine. Repeat.`
+
+</div>
