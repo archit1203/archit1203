@@ -98,8 +98,11 @@ Building practical ML systems, strengthening algorithmic thinking, and exploring
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit1203&theme=gotham"/>
   <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archit1203&theme=gotham&utcOffset=5.5"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=archit1203&theme=gotham"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit1203&theme=gotham"/>
 </p>
+
+
+
 
 <p align="center">  
   <img src="https://leetcard.jacoblin.cool/archit1203?theme=dark&font=Baloo&ext=heatmap"/>
